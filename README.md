@@ -6,7 +6,9 @@ It only works on integer values
 
 You need python 3 to run this program 
 clone this repository using 
--git clone
+
+
+`git clone`
 
 Then Make a folder inside it called as key in smallcase
 
@@ -16,4 +18,4 @@ and replace #YOUR_PATH --> Copied path
 
 save the changes and then type
 
--python3 main.py to run the program
+`-python3 main.py` to run the program
